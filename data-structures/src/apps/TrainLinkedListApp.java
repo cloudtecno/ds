@@ -29,6 +29,8 @@ public class TrainLinkedListApp {
 
 		//print out the train size
 		System.out.println("After Last Stop train size: " + app.trainSize());
+		
+		System.out.println("TEST");
 	}
 	
 	private int trainSize() {
